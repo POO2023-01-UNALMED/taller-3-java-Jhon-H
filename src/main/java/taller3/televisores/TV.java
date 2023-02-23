@@ -1,6 +1,6 @@
 package taller3.televisores;
 
-class TV {
+public class TV {
 	private static int numTV;
 
 	private Marca marca;
